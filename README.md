@@ -5,7 +5,7 @@ This demo demonstrates how a professional interior design website should look, f
 
 🔗 Live Demo  
 👉 Website Preview:  
-https://interiordemo.vercel.app  
+https://interiordesigncompanydemo1.vercel.app/
 
 Viewing the live demo helps interior design firms clearly visualize the final outcome after full customization.
 
